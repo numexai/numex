@@ -40,7 +40,7 @@
 | 🌐 **Web arama modu** | Güncel bilgiyi arayıp kaynaklı özet; chip seçicilerle mod değişimi. |
 | 👁️ **Görsel anlama** | Numex Vision profiliyle görsel analiz ve açıklama. |
 | 🎙️ **Sesli giriş & konuşma** | Sesli komut ve sesli sohbet oturumları. |
-| 🇹🇷 **Karakterler** | `@FatmaAna`, `@LokmanHekim`, `@MuhasebeciYunus`… ([ayrıntı](https://github.com/mobilcep/numex_nedir/blob/main/urunler/08-karakterler.md)) |
+| 🇹🇷 **Karakterler** | `@FatmaAna`, `@LokmanHekim`, `@MuhasebeciYunus`… ([ayrıntı](https://github.com/numexai/numex_nedir/blob/main/urunler/08-karakterler.md)) |
 | 🕵️ **Detective Mode™** | Kritik sorularda çoklu model + hakem. |
 | 🔬 **DeepView™** | Çoklu uzmanla "Master Plan" ve 6 katmanlı düşünce görünümü. |
 | 🤖 **Agent modu** | Çok adımlı görevleri planlar, değişiklikleri diff olarak sunar. |
@@ -111,19 +111,19 @@ Veriler Türkiye'de, KVKK uyumlu; her biri 256 GB RAM'li çift sunucu mimarisi.
 
 ## 👨‍👩‍👧‍👦 Numex Ailesi
 
-Aynı akıl, birçok kapı: 🧩 [Codex](https://github.com/mobilcep/numex-codex) · ⌨️ [CLI](https://github.com/mobilcep/numex-cli) ·
-🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) ·
-🎓 [Okul](https://github.com/mobilcep/numex-okul) · 🛍️ [Market](https://github.com/mobilcep/numex-market) ·
-📖 [Numexpedia](https://github.com/mobilcep/numex-pedia) · 📦 [Hub](https://github.com/mobilcep/numex-hub) ·
-🏗️ [Forge](https://github.com/mobilcep/numex-forge) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) ·
+Aynı akıl, birçok kapı: 🧩 [Codex](https://github.com/numexai/numex-codex) · ⌨️ [CLI](https://github.com/numexai/numex-cli) ·
+🔌 [API](https://github.com/numexai/numex-api) · 🧰 [SDK](https://github.com/numexai/numex-sdk) ·
+🎓 [Okul](https://github.com/numexai/numex-okul) · 🛍️ [Market](https://github.com/numexai/numex-market) ·
+📖 [Numexpedia](https://github.com/numexai/numex-pedia) · 📦 [Hub](https://github.com/numexai/numex-hub) ·
+🏗️ [Forge](https://github.com/numexai/numex-forge) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) ·
 🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
 ---
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/mobilcep/numex-codex) · [Okul](https://github.com/mobilcep/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/mobilcep/numex-pedia) · [Hub](https://github.com/mobilcep/numex-hub) · [Forge](https://github.com/mobilcep/numex-forge) · [API](https://github.com/mobilcep/numex-api) · [SDK](https://github.com/mobilcep/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
-*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/mobilcep/numex_nedir)
+*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
 </div>
