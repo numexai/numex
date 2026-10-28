@@ -116,13 +116,13 @@ Aynı akıl, birçok kapı: 🧩 [Codex](https://github.com/numexai/numex-codex)
 🎓 [Okul](https://github.com/numexai/numex-okul) · 🛍️ [Market](https://github.com/numexai/numex-market) ·
 📖 [Numexpedia](https://github.com/numexai/numex-pedia) · 📦 [Hub](https://github.com/numexai/numex-hub) ·
 🏗️ [Forge](https://github.com/numexai/numex-forge) · 🧭 [Pusulam](https://github.com/numexai/pusulamx) ·
-🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+🩺 [PC Doktoru](https://github.com/numexai/pc-doktoru)
 
 ---
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/numexai/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/numexai/pusulamx) · [PC Doktoru](https://github.com/numexai/pc-doktoru)
 
 *İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
